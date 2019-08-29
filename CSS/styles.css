@@ -218,6 +218,9 @@ p::after {
   nav {
     top: 0;
   }
+  body {
+    width: auto;
+  }
 }
 
 /* example code */
